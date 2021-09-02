@@ -5,7 +5,7 @@ Whilst requiring cpp files that would retrieve three-dimensional pixel data from
 
 ![](robotics%20images/gazebo%20with%20robot.PNG)
 
-The above is the orthogonal Gazebio view, with placed robot and ball. 
+The above is the orthogonal Gazebo view, with placed robot and ball. 
 
 ![](robotics%20images/robot%20visualisation%20with%20camera%20and%20laser-scan.PNG)
 
