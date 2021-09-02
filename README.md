@@ -13,4 +13,4 @@ Here, lazer visualisation and the camera are visible in the Rviz system.
 
 ![](robotics%20images/ball%20chaser%20robotics.gif)
 
-Finally, the robot in action, running to the ball-chaser cpp file.
+Finally, the robot in action, running to the ball-chaser source code.
